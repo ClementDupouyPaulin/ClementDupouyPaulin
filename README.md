@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Clement Dupouy-Paulin</h1>
-<h3 align="center">I'm student in software engineering from France</h3>
+<h3 align="left">
+I am a computer science student at the University of Nice, actively engaged in an apprenticeship program. Currently, I am immersed in the world of C# .Net Core 8 development, honing my skills through practical experiences. Passionate about merging academic knowledge with real-world applications, I thrive on the challenges of the dynamic tech industry. My journey at the intersection of academia and professional development fuels my commitment to innovation and continuous learning.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clementdupouypaulin&label=Profile%20views&color=0e75b6&style=flat" alt="clementdupouypaulin" /> </p>
 
